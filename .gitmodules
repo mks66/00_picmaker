@@ -15,3 +15,7 @@
 [submodule "leeTri"]
 	path = leeTri
 	url = git@github.com:TristanLee187/00_picmaker.git
+[submodule "jiangVin"]
+	path = jiangVin
+	url = https://github.com/vjiang10/Graphics_00_Imagine-All-the-Pixels.git
+	branch = main
