@@ -4,3 +4,7 @@
 [submodule "zhangAnn"]
 	path = zhangAnn
 	url = https://github.com/annazhang03/picmaker.git
+[submodule "ahmedTah"]
+	path = ahmedTah
+	url = https://github.com/TahsinAhmed13/00_picmaker.git
+	branch = main
