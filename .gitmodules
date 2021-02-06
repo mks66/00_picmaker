@@ -1,0 +1,3 @@
+[submodule "cantarellaGra"]
+	path = cantarellaGra
+	url = https://github.com/grcecant/picmaker.git
