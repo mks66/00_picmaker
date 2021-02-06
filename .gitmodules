@@ -12,3 +12,6 @@
 	path = ku-benjetJer
 	url = https://github.com/jku20/mk66_graphics.git
 	branch = picmaker
+[submodule "leeTri"]
+	path = leeTri
+	url = git@github.com:TristanLee187/00_picmaker.git
