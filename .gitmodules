@@ -29,3 +29,7 @@
 [submodule "zhengCin"]
 	path = zhengCin
 	url = https://github.com/czheng10/00picmaker.git
+[submodule "nathMic"]
+	path = nathMic
+	url = https://github.com/Michael-Nath/mnath_picmaker.git
+	branch = main
