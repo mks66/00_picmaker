@@ -33,3 +33,7 @@
 	path = nathMic
 	url = https://github.com/Michael-Nath/mnath_picmaker.git
 	branch = main
+[submodule "picmaker_vs"]
+	path = siuVic
+	url = https://github.com/vs2961/picmaker_vs.git
+	branch = main
