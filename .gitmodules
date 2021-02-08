@@ -77,3 +77,7 @@
 	path = zhengYul
 	url = https://github.com/yzheng10/00_Picmaker.git
 	branch = main
+[submodule "zhangAle"]
+	path = zhangAle
+	url = https://github.com/Kappachino-Latte/00_picmaker_alex.git/
+	branch = master
