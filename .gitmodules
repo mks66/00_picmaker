@@ -41,3 +41,6 @@
 	path = liSun
 	url = https://github.com/sunnyli13/graphics00.git
 	branch = main
+[submodule "linRay"]
+	path = linRay
+	url = https://github.com/RayLin10/picmaker.git
