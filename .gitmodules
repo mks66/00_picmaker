@@ -56,3 +56,6 @@
 	path = huMic
 	url = https://github.com/GuessHuIAm/g1_picmaker
 	branch = master
+[submodule "chenLeo"]
+	path = chenLeo
+	url = https://github.com/LeoChen21/chenLeo
