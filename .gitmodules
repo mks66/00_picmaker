@@ -69,3 +69,7 @@
 	path = yeCul
 	url = https://github.com/CullenLYe/work00_picmaker.git
 	branch = main
+[submodule "hirotaEis"]
+	path = hirotaEis
+	url = https://github.com/ei5uke/00_picmaker_mks.git
+	branch = main
