@@ -59,3 +59,6 @@
 [submodule "chenLeo"]
 	path = chenLeo
 	url = https://github.com/LeoChen21/chenLeo
+[submodule "yanVic"]
+	path = yanVic
+	url = https://github.com/vkyan10/000_picmaker.git
