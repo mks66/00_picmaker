@@ -44,3 +44,7 @@
 [submodule "linRay"]
 	path = linRay
 	url = https://github.com/RayLin10/picmaker.git
+[submodule "leeSte"]
+	path = leeSte
+	url = https://github.com/kevidgel/00_picmaker
+	branch = main
