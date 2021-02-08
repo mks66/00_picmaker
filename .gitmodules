@@ -48,3 +48,7 @@
 	path = leeSte
 	url = https://github.com/kevidgel/00_picmaker
 	branch = main
+[submodule "yeGen"]
+	path = yeGen
+	url = https://github.com/Gene1212/00_picmaker.git
+	branch = master
