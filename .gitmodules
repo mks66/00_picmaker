@@ -52,3 +52,7 @@
 	path = yeGen
 	url = https://github.com/Gene1212/00_picmaker.git
 	branch = master
+[submodule "huMic"]
+	path = huMic
+	url = https://github.com/GuessHuIAm/g1_picmaker
+	branch = master
