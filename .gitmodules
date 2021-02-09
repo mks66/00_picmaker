@@ -98,3 +98,6 @@
 	path = zhangJin
 	url = https://github.com/Jinzxc/00_picmaker_J.git
 	branch = main
+[submodule "hathawayMay"]
+	path = hathawayMay
+	url = https://github.com/mayhathaway/graphics-00.git
