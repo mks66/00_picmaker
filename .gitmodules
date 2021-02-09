@@ -121,3 +121,6 @@
 	path = leeLuc
 	url = https://github.com/Lucas-Lee11/00_picmaker
 	branch = main
+[submodule "donOsipov"]
+	path = donOsipov
+	url = https://github.com/Don-Osipov/ppm-picmaker
