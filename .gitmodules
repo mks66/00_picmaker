@@ -117,3 +117,7 @@
 [submodule "jooEth"]
 	path = jooEth
 	url = https://github.com/ejoo10/picmaker.git
+[submodule "leeLuc"]
+	path = leeLuc
+	url = https://github.com/Lucas-Lee11/00_picmaker
+	branch = main
