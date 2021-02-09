@@ -124,3 +124,7 @@
 [submodule "donOsipov"]
 	path = donOsipov
 	url = https://github.com/Don-Osipov/ppm-picmaker
+[submodule "hamzahMoh"]
+	path = hamzahMoh
+	url = https://github.com/ForestDweller014/00_picmaker
+	branch = main
