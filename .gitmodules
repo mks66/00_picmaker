@@ -108,3 +108,6 @@
 	path = misquittaKri
 	url = https://github.com/Kristoff1318/00_Pixels.git
 	branch = main
+[submodule "farrellMax"]
+	path = farrellMax
+	url = https://github.com/maxffarrell/00picmaker.git
