@@ -88,3 +88,6 @@
 	path = vostrikovVla
 	url = https://github.com/villinoid/01_gfx.git
 	branch = main
+[submodule "weiIva"]
+	path = weiIva
+	url = https://github.com/iwei20/PicMaker.git
