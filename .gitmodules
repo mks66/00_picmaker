@@ -94,3 +94,7 @@
 [submodule "ganHao"]
 	path = ganHao
 	url = https://github.com/haotianGan/ComputerGraphics1
+[submodule "zhangJin"]
+	path = zhangJin
+	url = https://github.com/Jinzxc/00_picmaker_J.git
+	branch = main
