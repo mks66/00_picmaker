@@ -104,3 +104,7 @@
 [submodule "yuNeh"]
 	path = yuNeh
 	url = https://github.com/Nyu10/00_Picmaker
+[submodule "misquittaKri"]
+	path = misquittaKri
+	url = https://github.com/Kristoff1318/00_Pixels.git
+	branch = main
