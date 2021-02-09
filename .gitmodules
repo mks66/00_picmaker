@@ -114,3 +114,6 @@
 [submodule "wuYil"]
 	path = wuYil
 	url = https://github.com/YLW-105/00picmaker.git
+[submodule "jooEth"]
+	path = jooEth
+	url = https://github.com/ejoo10/picmaker.git
