@@ -104,3 +104,7 @@
 	path = chenLeo
 	url = https://github.com/LeoChen21/chenLeo
 	branch = main
+[submodule "osipovDon"]
+	path = osipovDon
+	url = https://github.com/Don-Osipov/ppm-picmaker
+	branch = main
