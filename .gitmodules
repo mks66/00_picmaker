@@ -100,3 +100,7 @@
 	path = weiIva
 	url = git@github.com:iwei20/PicMaker
 	branch = main
+[submodule "chenLeo"]
+	path = chenLeo
+	url = https://github.com/LeoChen21/chenLeo
+	branch = main
