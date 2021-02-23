@@ -128,3 +128,7 @@
 	path = yuNeh
 	url = https://github.com/Nyu10/00_Picmaker
 	branch = main
+[submodule "liZhi"]
+	path = liZhi
+	url = https://github.com/zlicompgraphics/00_compgraphics.git
+	branch = main
