@@ -120,7 +120,3 @@
 	path = yanVic
 	url = https://github.com/vkyan10/000_picmaker.git
 	branch = master
-[submodule "baiJia"]
-	path = baiJia
-	url = https://github.com/JJBai2003/picmaker
-	branch = main
