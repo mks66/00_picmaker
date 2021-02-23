@@ -99,9 +99,6 @@
 	path = misquittaKri
 	url = https://github.com/Kristoff1318/00_Pixels.git
 	branch = main
-[submodule "farrellMax"]
-	path = farrellMax
-	url = https://github.com/maxffarrell/00picmaker.git
 [submodule "wuYil"]
 	path = wuYil
 	url = https://github.com/YLW-105/00picmaker.git
