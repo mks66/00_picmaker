@@ -108,3 +108,7 @@
 	path = osipovDon
 	url = https://github.com/Don-Osipov/ppm-picmaker
 	branch = main
+[submodule "baiJia"]
+	path = baiJia
+	url = https://github.com/JJBai2003/picmaker
+	branch = main
