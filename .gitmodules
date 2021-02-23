@@ -92,3 +92,7 @@
 	path = hamzahMoh
 	url = https://github.com/ForestDweller014/00_picmaker
 	branch = main
+[submodule "cantarellaGra"]
+	path = cantarellaGra
+	url = https://github.com/grcecant/picmaker.git
+	branch = main
