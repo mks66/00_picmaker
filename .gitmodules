@@ -96,3 +96,7 @@
 	path = cantarellaGra
 	url = https://github.com/grcecant/picmaker.git
 	branch = main
+[submodule "weiIva"]
+	path = weiIva
+	url = git@github.com:iwei20/PicMaker
+	branch = main
