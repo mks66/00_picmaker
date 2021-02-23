@@ -53,9 +53,6 @@
 [submodule "yanVic"]
 	path = yanVic
 	url = https://github.com/vkyan10/000_picmaker.git
-[submodule "liZhi"]
-	path = liZhi
-	url = https://github.com/zlicompgraphics/00_compgraphics.git
 [submodule "yeCul"]
 	path = yeCul
 	url = https://github.com/CullenLYe/work00_picmaker.git
