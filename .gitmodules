@@ -124,3 +124,7 @@
 	path = baiJia
 	url = https://github.com/JJBai2003/picmaker
 	branch = main
+[submodule "yuNeh"]
+	path = yuNeh
+	url = https://github.com/Nyu10/00_Picmaker
+	branch = main
