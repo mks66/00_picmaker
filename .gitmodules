@@ -19,9 +19,6 @@
 	path = jiangVin
 	url = https://github.com/vjiang10/Graphics_00_Imagine-All-the-Pixels.git
 	branch = main
-[submodule "baiJia"]
-	path = baiJia
-	url = https://github.com/JJBai2003/CG
 [submodule "huLuc"]
 	path = huLuc
 	url = https://github.com/lhu10/graphics_00_picmaker.git
