@@ -116,3 +116,7 @@
 	path = zhengYul
 	url = https://github.com/yzheng10/00_Picmaker.git
 	branch = main
+[submodule "jooEth"]
+	path = jooEth
+	url = https://github.com/ejoo10/picmaker.git
+	branch = main
