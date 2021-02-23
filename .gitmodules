@@ -55,10 +55,6 @@
 	path = hirotaEis
 	url = https://github.com/ei5uke/00_picmaker_mks.git
 	branch = main
-[submodule "zhengYul"]
-	path = zhengYul
-	url = https://github.com/yzheng10/00_Picmaker.git
-	branch = main
 [submodule "zhangAle"]
 	path = zhangAle
 	url = https://github.com/Kappachino-Latte/00_picmaker_alex.git/
@@ -111,4 +107,8 @@
 [submodule "baiJia"]
 	path = baiJia
 	url = https://github.com/JJBai2003/picmaker
+	branch = main
+[submodule "zhengYul"]
+	path = zhengYul
+	url = https://github.com/yzheng10/00_Picmaker.git
 	branch = main
