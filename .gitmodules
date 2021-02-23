@@ -110,7 +110,7 @@
 	branch = main
 [submodule "zhengCin"]
 	path = zhengCin
-	url = https://github.com/czheng10/00picmaker
+	url = https://github.com/czheng10/00picmaker.git
 	branch = main
 [submodule "zhengYul"]
 	path = zhengYul
