@@ -69,9 +69,6 @@
 	path = zhangAle
 	url = https://github.com/Kappachino-Latte/00_picmaker_alex.git/
 	branch = master
-[submodule "miahFah"]
-	path = miahFah
-	url = https://github.com/fmiah10/picmaker.git
 [submodule "vostrikovVla"]
 	path = vostrikovVla
 	url = https://github.com/villinoid/01_gfx.git
