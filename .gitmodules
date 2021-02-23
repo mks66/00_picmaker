@@ -112,3 +112,7 @@
 	path = zhengYul
 	url = https://github.com/yzheng10/00_Picmaker.git
 	branch = main
+[submodule "zhengCin"]
+	path = zhengCin
+	url = https://github.com/czheng10/00picmaker
+	branch = main
