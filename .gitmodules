@@ -108,10 +108,6 @@
 	path = baiJia
 	url = https://github.com/JJBai2003/picmaker
 	branch = main
-[submodule "zhengYul"]
-	path = zhengYul
-	url = https://github.com/yzheng10/00_Picmaker.git
-	branch = main
 [submodule "zhengCin"]
 	path = zhengCin
 	url = https://github.com/czheng10/00picmaker
